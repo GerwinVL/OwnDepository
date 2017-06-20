@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: fb6feb3856467f141aed87cc1ea3ff09
-timeCreated: 1497882433
+guid: 8d412aa1848e8374885ddf7e7df85c5e
+timeCreated: 1497980138
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: FrontBorderSmall
+    4300000: RoofPart_LP
   materials:
     importMaterials: 1
     materialName: 0

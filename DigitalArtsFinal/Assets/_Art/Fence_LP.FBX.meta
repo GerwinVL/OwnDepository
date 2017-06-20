@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 120250ec19859db4ba5392229e3194ef
-timeCreated: 1497882433
+guid: 27fbe5fe9c079104eb46d9d58775b931
+timeCreated: 1497985993
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: FrontBorderTallest
+    4300000: Fence_LP
   materials:
     importMaterials: 1
     materialName: 0

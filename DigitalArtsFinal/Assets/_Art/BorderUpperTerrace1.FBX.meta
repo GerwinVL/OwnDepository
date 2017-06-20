@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: bdb573470827e624daf7318aff173011
-timeCreated: 1497882433
+guid: e2d3c124e4968f34eac1067adf89e547
+timeCreated: 1497982196
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: FrontBorderMid
+    4300000: BorderUpperTerrace2
   materials:
     importMaterials: 1
     materialName: 0
