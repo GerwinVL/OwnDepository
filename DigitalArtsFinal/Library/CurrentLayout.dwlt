@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -106,7 +106,7 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 683, y: 492}
+  m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
   controlID: 9
@@ -130,7 +130,7 @@ MonoBehaviour:
     y: 0
     width: 1352
     height: 947
-  m_MinSize: {x: 406, y: 492}
+  m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 10
@@ -154,8 +154,8 @@ MonoBehaviour:
     y: 0
     width: 1352
     height: 510
-  m_MinSize: {x: 406, y: 221}
-  m_MaxSize: {x: 8006, y: 4021}
+  m_MinSize: {x: 404, y: 221}
+  m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
   controlID: 11
 --- !u!114 &8
@@ -310,7 +310,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoom: 0
     m_UniformScale: 1
     m_UpDirection: 1
@@ -367,10 +367,10 @@ MonoBehaviour:
     width: 399
     height: 489
   m_TreeViewState:
-    scrollPos: {x: 0, y: 40}
-    m_SelectedIDs: 26faffff
-    m_LastClickedID: -1498
-    m_ExpandedIDs: 86fbffff8efbffff94fbffffe2fbffff00000000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: d4b3ffff
+    m_LastClickedID: -19500
+    m_ExpandedIDs: eabfffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -425,9 +425,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 7.916542, y: -5.3300276, z: -15.651687}
+    m_Target: {x: -2.4408054, y: -3.8441768, z: -18.69685}
     speed: 2
-    m_Value: {x: 7.916542, y: -5.3300276, z: -15.651687}
+    m_Value: {x: -2.4408054, y: -3.8441768, z: -18.69685}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -450,9 +450,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.099217355, y: -0.8691197, z: 0.1942707, w: -0.44389823}
+    m_Target: {x: 0.037469283, y: 0.9610023, z: -0.2193541, w: 0.16417807}
     speed: 2
-    m_Value: {x: -0.09921736, y: -0.86911976, z: 0.19427072, w: -0.44389826}
+    m_Value: {x: 0.037469286, y: 0.96100235, z: -0.21935411, w: 0.16417809}
   m_Size:
     m_Target: 16.419176
     speed: 2
@@ -536,13 +536,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\gerwin\Documents\GitHub2\OwnDepository\DigitalArtsFinal
+  m_LastProjectPath: F:\Github\OwnDepository\DigitalArtsFinal
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d2250000
-    m_LastClickedID: 9682
-    m_ExpandedIDs: 00000000d22500005627000058270000f8290000fa2900002e2a000000ca9a3bffffff7f
+    m_SelectedIDs: cc3a0000
+    m_LastClickedID: 15052
+    m_ExpandedIDs: 00000000cc3a0000923b0000943b00006e3c0000703c0000903c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -570,7 +570,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d22500005627000058270000f8290000fa2900002e2a0000
+    m_ExpandedIDs: 00000000cc3a0000923b0000943b00006e3c0000703c0000903c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
