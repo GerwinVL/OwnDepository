@@ -1,0 +1,39 @@
+Ik begon met een idee zoeken voor de opdracht
+
+Nadat ik op het idee Western was gekomen ging ik nadenken wat ik western wilde doen, eerst wou ik een Wild West Stadje maken maar dat bleek al snel te veel werk te zijn.
+
+Ik had tussendoor fotos opgezocht van een western stadje.
+
+Ik had deze stad eerst gegrayboxed, maar toen ik er achter kwam dat het teveel werk zou worden.
+
+
+Ik herdacht mijn idee en ging een saloon maken, ik kon de assets die ik eerder gemaakt had hergebruiken voor de saloon muren.
+
+Ik zocht interiors op van saloons en begon de outer rims te maken van het saloon, denk hierbij aan: Muren, Muurafwerkingen, Vloer, Grond etc.
+
+Ik zette dit in elkaar en had een saloon met 1 terrasje boven de bar die supported werd door pillaren.
+
+
+Nadat dit klaar was begon ik met het uitdenken van het interieur, welke props ik zou moeten gebruiken etc.
+
+Ik had dit lijstje in m'n hoofd maar later ook deels genoteerd op mijn telefoon.
+
+Ik begon met het maken van de pillaren en texturede alles wat ik 3d gemaakt had gelijk nadat het klaar was zodat ik het er gelijk in kon zetten. Ik maakte ook fences voor boven en een plank die als extra tegen de muren aan geplaatst kon worden.
+
+
+Ik plaatste de reflectionprobes.
+
+Daarna maakte ik de windows texturede deze en begon ik de lighting alvast te optimalizeren, ik fixte ook gelijk goede post processing zodat ik kan zien hoe het er in de final image uitzag.
+
+Nu plaatste ik ook de lightprobes en bakede de realtime GI.
+
+Ik maakte een olielamp en optimalizeerde de lighting tot het bijna eindresultaat.
+
+
+Ik begon te werken aan de bar, de tafel en de stoel, daarna maakte ik de shelf die achter de bar zat.
+
+Ik had inmiddels nogsteeds geen trap die naar boven zou gaan, ik maakte deze snel en plaatste extra colliders.
+
+Ik maakte nog wat extra props zoals schilderijen en whiskey bekers.
+
+En dat is waar ik nu ben.
