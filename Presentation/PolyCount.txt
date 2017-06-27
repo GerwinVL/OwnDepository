@@ -1,0 +1,33 @@
+Lamp Tris: 3080
+
+Bar Tris: 1628
+
+Bar Shelf Tris: 248
+
+Barrel Tris: 1296
+
+Whiskey Bottle Tris: 100
+
+Fence Tris: 5592
+
+Window Tris: 172
+
+Stairs Tris: 116
+
+Stoel Tris: 2660
+
+Table Tris: 554
+
+Horizontal Plank Terrace Tris: 32
+
+Roof Piece Tris: 50
+
+Wall Tris: 122
+
+CornerPillar Tris: 32
+
+Main Pillar Tris: 682
+Main Pillar Extension Tris: 220
+
+Painting Tris: 34
+
